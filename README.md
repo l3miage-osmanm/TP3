@@ -13,7 +13,7 @@ Dans cet exercice, vous allez apprendre à :
 
 * Dans cet exercice, nous allons être tout le long dans le paradigme `create`
 * Voici la situation qui est déjà implémentée :
-  ![situation exo 1](doc/img_2.png)
+  ![situation exo 1](/home/osmanm/TP3/doc/img_2.png)
 
 
 ## 1. Creation des repository.
